@@ -70,9 +70,9 @@ We invite your poster submissions for DOT-PIM. A two-page PDF abstract of the re
 
 #### Important Dates
 
-Abstract submission deadline: 31 July 2023
+Abstract submission deadline: 15 August 2023
 
-Notification date: 10 August 2023
+Notification date: 22 August 2023
 
 Workshop date: 21 September 2023
 
