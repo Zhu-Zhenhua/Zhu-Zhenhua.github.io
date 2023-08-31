@@ -23,59 +23,35 @@ In view of the above challenges, this workshop will invite the leading experts f
 
 The workshop is composed of eleven invited talks and a poster session.
 
-> 09:00-09:05 Prof. Yu Wang, Tsinghua University
-
-            Opening
+> 09:00-09:05 Prof. Yu Wang, Tsinghua University, **_Opening_**
 > 
-> 09:05-09:45 Prof. Onur Mutlu, ETH & CMU
-
-            Memory-Centric Computing
+> 09:05-09:45 Prof. Onur Mutlu, ETH & CMU, **_Memory-Centric Computing_**
 > 
-> 09:45-10:15 Prof. Huaqiang Wu, Tsinghua University
-
-            Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System
+> 09:45-10:15 Prof. Huaqiang Wu, Tsinghua University, **_Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System_**
 > 
 > 10:15-10:30 Coffee Break
 > 
-> 10:30-11:00 Dr. Abbas Rahimi, IBM
-
-            A Neuro-Vector-Symbolic Architecture for Data- and Compute-Efficient Continual Learning, Abstract Reasoning, and Combinatorial Inference
+> 10:30-11:00 Dr. Abbas Rahimi, IBM, _**A Neuro-Vector-Symbolic Architecture for Data- and Compute-Efficient Continual Learning, Abstract Reasoning, and Combinatorial Inference**_
 > 
-> 11:00-11:30 Prof. Li Jiang, Shanghai Jiao Tong University & Huawei
-
-            Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products
+> 11:00-11:30 Prof. Li Jiang, Shanghai Jiao Tong University & Huawei, **_Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products_**
 > 
-> 11:30-12:00 Prof. Xiaoming Chen, ICT, Chinese Academy of Sciences
-
-            EDA Toolchain for Processing-in-Memory CNN Accelerators
+> 11:30-12:00 Prof. Xiaoming Chen, ICT, Chinese Academy of Sciences, **_EDA Toolchain for Processing-in-Memory CNN Accelerators_**
 > 
 > 12:00-13:30 Lunch & Poster Sharing Sessions
 > 
-> 13:30-14:10 Prof. Yu (Kevin) Cao, University of Minnesota
-
-            HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling
+> 13:30-14:10 Prof. Yu (Kevin) Cao, University of Minnesota, **_HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling_**
 > 
-> 14:10-14:40 Prof. Fengbin Tu, HKUST
-
-            Digital Computing-In-Memory Architecture and Design Automation
+> 14:10-14:40 Prof. Fengbin Tu, HKUST, **_Digital Computing-In-Memory Architecture and Design Automation_**
 > 
-> 14:40-15:10 Prof. Grace Li Zhang, TU Darmstadt
-
-            Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks
+> 14:40-15:10 Prof. Grace Li Zhang, TU Darmstadt, **_Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks_**
 > 
 > 15:10-15:25 Coffee Break
 > 
-> 15:25-15:55 Prof. Yaoyu Tao, Peking University
-
-            Fast and Reconfigurable Sort-In-Memory System Enabled by Memristors
+> 15:25-15:55 Prof. Yaoyu Tao, Peking University, **_Fast and Reconfigurable Sort-In-Memory System Enabled by Memristors_**
 >
-> 15:55-16:20 Mr. Yuan-Chun Luo, GIT, advisor: Prof. Shimeng Yu
-
-            Benchmarking Framework for Non-volatile Capacitive Compute-in-Memory
+> 15:55-16:20 Mr. Yuan-Chun Luo, GIT, advisor: Prof. Shimeng Yu, **_Benchmarking Framework for Non-volatile Capacitive Compute-in-Memory_**
 > 
-> 16:20-16:45 Mr. Shiyu Li, Duke, advisor: Prof. Yiran Chen
-
-            Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization
+> 16:20-16:45 Mr. Shiyu Li, Duke, advisor: Prof. Yiran Chen, **_Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization_**
 > 
 > 16:45-16:50 Closing Remark
 
@@ -239,24 +215,6 @@ Yu Wang (yu-wang@tsinghua.edu.cn), Tsinghua University, CN.
 
 ## Organizers
 Yu Wang (Workshop Chair, yu-wang@tsinghua.edu.cn), professor, IEEE fellow, chair of the Department of Electronic Engineering of Tsinghua University, dean of the Institute for Electronics and Information Technology in Tianjin, and vice dean of the school of information science and technology of Tsinghua University. His research interests include application-specific heterogeneous computing, processing-in-memory, and power/reliability-aware system design methodology. Yu Wang has published more than 80 journals (51 IEEE/ACM journals in recent five years) and 200 conference papers in the areas of EDA, FPGA, VLSI Design, and Embedded Systems, with the Google citation more than 15,000. He has received four best paper awards and 11 best paper nominations. He will serve as TPC chair for ASP-DAC 2025. He serves as the editor of important journals in the field, such as ACM TODAES and IEEE TCAD and program committee member for leading conferences in the top EDA and FPGA conferences.
-
-**Speakers:**
-
-Yu (Kevin) Cao, Professor, IEEE fellow, Arizona State University. His research interests include neural-inspired computing, hardware design for on-chip learning, and reliable integration of nanoelectronics. He served as Associate Editor of the IEEE Transactions on CAD and on the technical program committee of many conferences.
-
-Yiran Chen, Professor, IEEE/ACM fellow, Duke University. His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems.  He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, ACM SIGDA Service Award, etc.
-
-Kwang-Ting Cheng (Fengbin Tu), Professor, IEEE fellow, Hong Kong University of Science and Technology. Prof. Cheng is a world authority in the field of electronics testing, design verification, and design automation of electronics. He was recognized in the 50th DAC in 2013 as a Top 10 Author in DAC’s Fourth Decade and a Prolific Author.
-
-Onur Mutlu, Professor, IEEE/ACM fellow, ETH Zurich. His current research interests are in computer architecture, systems, hardware security, and bioinformatics. He received the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, the ACM SIGARCH Maurice Wilkes Award.
-
-Huaqiang Wu, Professor, director of Microelectronics, Tsinghua University. His research interests include advanced memory and brain-inspired computing technologies. He has published 100 papers in top journals such as Nature, Nature Nanotechnology, Nature Electronics, and international conferences such as IEDM, VLSI and ISSCC.
-
-Xiaoming Chen, Associate Professor, Institute of Computing Technology, Chinese Academy of Sciences. His research interests are mainly focused on EDA and computer architecture. He was awarded the Excellent Young Scientists Fund of National Natural Science Foundation of China in 2021. He received the 2015 EDAA Outstanding Dissertation Award and the 2018 Alibaba DAMO Academy Young Fellow Award. 
-
-Shimeng Yu (Yuan-Chun Luo), Professor, Georgia Institute of Technology. Prof. Yu’s research interests are nanoelectronic devices and circuits for energy-efficient computing systems. He won the NSF Faculty Early CAREER Award in 2016 and the ACM Special Interests Group on Design Automation (SIGDA) Outstanding New Faculty Award in 2018.
-
-Abbas Rahimi, Research Staff, IBM Research-Zurich. His research interests lie in codesigning emerging algorithms and hardware systems with an emphasis on improving energy efficiency and robustness. He received the 2015 Outstanding Dissertation Award from the European Design and he was a co-recipient of the Best Paper Nominations at DAC (2013) and DATE (2019).
 
 
 ## Follow-up Plans
