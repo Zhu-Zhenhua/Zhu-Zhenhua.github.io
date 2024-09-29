@@ -23,37 +23,43 @@ However, the new computing paradigm and emerging memory technologies bring serio
 In view of the above challenges, this workshop will invite the leading experts from the PIM community to share their wonderful achievements in designing PIM architectures for efficient LLM. We hope LLM-PIM can help researchers to better understand the challenges and potential of using PIM for LLM acceleration and inspire further research directions. LLM-PIM workshop will also summarize the invited talk and other insightful discussions into a survey paper about designing PIM for LLM (submitted to related ACM/IEEE journals, e.g., ACM TODAES, IEEE TCAD, etc.).
 
 
-## Format and Duration of the Workshop (TBD)
+## Format and Duration of the Workshop
 
-The workshop is composed of six to seven invited talks, a panel discussion, and a poster session.
+### 10:30 - 11:30 Workshop Keynote Speech 1: 
+**Speaker:** Sharon Hu (University of Notre Dame)  
+**Title:** *Enhancing Resilience of In-Memory Computing to Device Variations*
 
-> 09:15-09:30 Prof. Yu Wang, Tsinghua University, **_Opening_**
-> 
-> 09:30-10:00 **_Invited Talk 1_**
->
-> 10:00-10:30 **_Invited Talk 2_**
-> 
-> 10:30-10:40 **_Coffee Break_**
->
-> 10:40-11:10 **_Invited Talk 3_**
->
-> 11:10-11:40 **_Invited Talk 4_**
->
-> 11:40-14:00 **_Lunch Break_**
->
-> 14:00-14:30 **_Invited Talk 5_**
->
-> 14:30-15:30 **_Invited Talk 6_**
->
-> 15:30-16:00 **_Invited Talk 7_**
->
-> 16:00-16:30 **_Panel Discussion_**
->
-> 16:30-16:40 **_Coffee Break_**
->
-> 16:40-17:30 **_Poster Session_**
+### 11:30 - 12:30 Workshop Keynote Speech 2: 
+**Speaker:** Bin Gao (Tsinghua University)  
+**Title:** *3D Integrated Computing-In-Memory Chips*
 
-## Talks (TBD)
+---
+
+### 13:30 - 14:00 Invited Talk 1: 
+**Speaker:** Pratyush Dhingra (Washington State University)  
+**Title:** *Energy Efficient 3D Heterogeneous Manycore Architecture for Transformer Acceleration*
+
+### 14:00 - 14:30 Invited Talk 2: 
+**Speaker:** Xin Si (Southeast University)  
+**Title:** *SRAM based Computation in Memory Circuits Design for Edge CNNs and Transformers*
+
+### 15:00 - 15:30 Coffee Break
+
+### 15:30 - 16:00 Invited Talk 3: 
+**Speaker:** Sathwika Bavikadi (Rochester Institute of Technology)  
+**Title:** *Exploring Flex-Enabled Reconfigurable Processor-in-Memory Architectures for Data Intensive Applications*
+
+### 16:00 - 16:30 Invited Talk 4: 
+**Speaker:** Xianzhang Chen (Chongqing University)  
+**Title:** *Drainage: A Multi-task Coroutine Management Mechanism for Computational Storage*
+
+### 16:30 - 17:00 Invited Talk 5: 
+**Speaker:** Geraldo Oliveira (ETH)  
+**Title:** TBD
+
+---
+
+### 17:00 - 17:10 Closing Remarks
 
 
 
