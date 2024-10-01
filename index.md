@@ -43,23 +43,23 @@ In view of the above challenges, this workshop will invite the leading experts f
 **Speaker:** Xin Si (Southeast University)  
 **Title:** *SRAM based Computation in Memory Circuits Design for Edge CNNs and Transformers*
 
-### 15:00 - 15:30 Coffee Break
-
-### 15:30 - 16:00 Invited Talk 3: 
-**Speaker:** Sathwika Bavikadi (Rochester Institute of Technology)  
-**Title:** *Exploring Flex-Enabled Reconfigurable Processor-in-Memory Architectures for Data Intensive Applications*
-
-### 16:00 - 16:30 Invited Talk 4: 
+### 14:30 - 15:00 Invited Talk 3: 
 **Speaker:** Xianzhang Chen (Chongqing University)  
 **Title:** *Drainage: A Multi-task Coroutine Management Mechanism for Computational Storage*
 
-### 16:30 - 17:00 Invited Talk 5: 
+### 15:00 - 15:30 Coffee Break
+
+### 15:30 - 16:00 Invited Talk 4: 
+**Speaker:** Sathwika Bavikadi (Rochester Institute of Technology)  
+**Title:** *Exploring Flex-Enabled Reconfigurable Processor-in-Memory Architectures for Data Intensive Applications*
+
+### 16:00 - 16:30 Invited Talk 5: 
 **Speaker:** Geraldo Oliveira (ETH)  
-**Title:** TBD
+**Title:** Enabling the Adoption of Data-Centric Systems: Hardware/Software Support for Processing-in-Memory Architectures
 
 ---
 
-### 17:00 - 17:10 Closing Remarks
+### 16:30 - 16:40 Closing Remarks
 
 
 
